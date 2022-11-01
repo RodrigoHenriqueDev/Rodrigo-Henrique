@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Menrodx(Rodrigo)
-- 👀 Estou interessado em Desenvolvimento full-stack
-- 🌱 Atualmente estou aprendendo Java, HTML5 e CSS3
+- 👋 Hi, Sou @Menrodx(Rodrigo)
+- 👀 Estou interessado em desenvolvimento web e back-end com Python
+- 🌱 Atualmente estou aprendendo Python
 - 💞️ Procuro contribuir para o mundo da TI, agregando valor às pessoas através da tecnologia
-- 📫 Pode me encontrar no meu Linkedin https://www.linkedin.com/in/rodrigo-h-851247140/
+- 📫 Pode me encontrar no meu Linkedin https://www.linkedin.com/in/rodrigo-h-851247140/ ou no meu e-mail: menezes_00@hotmail.com
 
 <!---
 Menrodx/Menrodx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
