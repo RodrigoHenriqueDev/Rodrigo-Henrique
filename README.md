@@ -1,4 +1,4 @@
-- 👋 Hi, Sou @Menrodx(Rodrigo)
+- 👋 Hi, Sou Rodrigo
 - 👀 Estou interessado em programação/desenvolvimento
 - 💞️ Procuro contribuir para o mundo da TI, agregando valor às pessoas através da tecnologia
 - 📫 Pode me encontrar no meu Linkedin https://www.linkedin.com/in/rodrigo-h-851247140/ ou no meu e-mail: menezes_00@hotmail.com
